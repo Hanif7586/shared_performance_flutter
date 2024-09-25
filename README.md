@@ -5,12 +5,10 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+shared preferences
+Data Insert,Fetch,Update,Delet
 
-A few resources to get you started if this is your first Flutter project:
+[WhatsApp Image 2024-09-23 at 02 18 31_2d0da293](https://github.com/user-attachments/assets/0ade4d0c-ecd1-47cc-906c-e965f662c173)![WhatsApp Image 2024-09-23 at 02 18 30_24fa021c](https://github.com/user-attachments/assets/73869156-f672-4eb6-8e17-af506989397f)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2024-09-23 at 02 18 29_9260ad12](https://github.com/user-attachments/assets/cf0c83e8-f248-42b1-a1d5-5114d95f8d92)
+![WhatsApp Image 2024-09-23 at 02 18 28_d4dd7388](https://github.com/user-attachments/assets/56088467-7b3e-4746-8440-4414a0eaff19)
